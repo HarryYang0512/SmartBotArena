@@ -26,7 +26,7 @@ The logic can later be replaced by a trained ML model (e.g., PyTorch, scikit-lea
 ---
 
 ## 📁 Project Structure
-```json
+```text
 SmartBotArena/
 ├── CppGame/
 │ ├── src/
