@@ -26,6 +26,7 @@ The logic can later be replaced by a trained ML model (e.g., PyTorch, scikit-lea
 ---
 
 ## 📁 Project Structure
+```json
 SmartBotArena/
 ├── CppGame/
 │ ├── src/
@@ -36,6 +37,7 @@ SmartBotArena/
 ├── assets/ # (optional) images, sounds
 ├── .vscode/ # VSCode task configuration
 └── README.md
+```
 
 ---
 
@@ -58,3 +60,4 @@ Ensure `.vscode/tasks.json` contains:
   "-lSDL3",
   "-o", "SmartBotArena.exe"
 ]
+```
